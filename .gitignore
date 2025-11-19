@@ -2,3 +2,5 @@
 .vscode/
 DataStructure_and_AlgorithmAnalysis/Stack/__pycache__/
 DataStructure_and_AlgorithmAnalysis/Queue/__pycache__/
+__pycache__/
+*.py[cod]
